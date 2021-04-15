@@ -2,7 +2,7 @@
 //  WarCardGameApp.swift
 //  WarCardGame
 //
-//  Created by Andrei-Petrisor Buculea on 15.04.2021.
+//  Created by Andrei-Petrisor Buculea on 13.04.2021.
 //
 
 import SwiftUI
